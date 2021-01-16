@@ -12,7 +12,7 @@
         "has_materials": true,
         "has_machine_quality": true,
 		"supports_usb_connection": true,
-		"has_variants": false,
+        "has_variants": false,
         "machine_extruder_trains":
         {
             "0": "sapphire_plus_extruder_0"
