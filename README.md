@@ -2,7 +2,7 @@
  Cura slicer profile for Sapphire Plus 3D printer from TwoTrees
 
 How to install.
-1. Copy the contents of the "profile" folder (folders "definitions", "extruders", "meshes") to your Cura settings folder (e.g. C:\Users\@___YOUR USERNAME___@\Application Data\cura\4.8).
+1. Copy the contents of the "profile" folder (folders "definitions", "extruders", "meshes") to your Cura settings folder (e.g. C:\Users\@___YOUR USERNAME___@\Application Data\cura\4.8). Or directly to the programm folder (e.g. c:\Program Files\Ultimaker Cura 4.8.0\resources\ require administrative access).
 2. Run Cura slicer. Sapphire Plus printer should appear in "add printer" menu - add it.
 3. Enjoy :).
 
