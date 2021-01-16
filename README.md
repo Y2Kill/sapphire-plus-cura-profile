@@ -2,7 +2,7 @@
  Cura slicer profile for Sapphire Plus 3D printer from TwoTrees
 
  IMPORTANT!
- This is "raw" or blank profile. It has no buld in material settings, quality profiles and lots of other things! If you have your own well tunned profile for sapphire plus it is better to use just mesh file from here - to preserv all your configuretions.
+ This is "raw" or blank profile. It has no buld in material settings, quality profiles and lots of other things! If you have your own well tunned profile for sapphire plus it is better to use just mesh file from here - to preserv all your configurations.
 
 How to install.
 1. Copy the contents of the "profile" folder (folders "definitions", "extruders", "meshes") to your Cura settings folder (e.g. C:\Users\@___YOUR USERNAME___@\Application Data\cura\4.8). Or directly to the programm folder (e.g. c:\Program Files\Ultimaker Cura 4.8.0\resources\ require administrative access).
